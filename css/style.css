@@ -1,0 +1,80 @@
+body {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+h1 {
+    text-align: center;
+	color: white;
+	font-size: 500%;
+}
+
+/*.header {
+	 background-color: #3b5998;
+}*/
+
+.profile {
+	margin-top: 5px;
+}
+
+.center {
+	text-align: center;
+}
+
+
+ul {
+	list-style: none;
+}
+
+.first {
+	background-color: #1B65BF;
+}
+p {
+	color: white;
+	font-size: 250%;
+}
+.block{
+	padding: 20px;
+}
+.other {
+	color: black;
+}
+ 
+ .no-padding{
+ 	padding-left: 0px;
+ 	padding-right: 0px;
+ }
+.CookieLand {
+	color: black;
+}
+
+body {
+	background-color: #1B65BF;
+}
+.col-md-4 {
+	padding: 0;
+	margin: 0;
+}
+
+.third {
+	background-color: #1B65BF;
+}
+
+h3 {
+	color: white;
+	font-size: 300%;
+}
+
+.pink {
+background-color: #FFB5A7;
+}
+
+.gold {
+background-color: #F0CB1A;
+}
+
+.green {
+	background-color: #85F516;
+}
+
+.orange {background-color: #FF9104;
+}
